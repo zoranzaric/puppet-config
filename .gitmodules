@@ -1,3 +1,6 @@
 [submodule "modules/apache"]
 	path = modules/apache
 	url = https://github.com/zoranzaric/puppet-apache.git
+[submodule "modules/vhosts"]
+	path = modules/vhosts
+	url = https://github.com/zoranzaric/puppet-vhosts.git
