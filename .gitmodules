@@ -1,0 +1,3 @@
+[submodule "modules/apache"]
+	path = modules/apache
+	url = https://github.com/zoranzaric/puppet-apache.git
