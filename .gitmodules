@@ -4,3 +4,6 @@
 [submodule "modules/vhosts"]
 	path = modules/vhosts
 	url = https://github.com/zoranzaric/puppet-vhosts.git
+[submodule "modules/munin"]
+	path = modules/munin
+	url = https://github.com/zoranzaric/puppet-munin.git
