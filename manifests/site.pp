@@ -4,7 +4,6 @@ vhosts::vhost { "www.example.com":
     domain => "example.com"
 }
 
-include "apache"
 apache::vhost { "www.example.com":
     vhost => "www",
     domain => "example.com",
